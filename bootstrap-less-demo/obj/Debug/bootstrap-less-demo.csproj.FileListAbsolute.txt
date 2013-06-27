@@ -1,0 +1,9 @@
+C:\demos\bootstrap-less-demo\bootstrap-less-demo\bin\bootstrap-less-demo.dll
+C:\demos\bootstrap-less-demo\bootstrap-less-demo\bin\bootstrap-less-demo.pdb
+C:\demos\bootstrap-less-demo\bootstrap-less-demo\bin\Antlr3.Runtime.dll
+C:\demos\bootstrap-less-demo\bootstrap-less-demo\bin\Microsoft.Web.Infrastructure.dll
+C:\demos\bootstrap-less-demo\bootstrap-less-demo\bin\System.Web.Optimization.dll
+C:\demos\bootstrap-less-demo\bootstrap-less-demo\bin\System.Web.Providers.dll
+C:\demos\bootstrap-less-demo\bootstrap-less-demo\bin\WebGrease.dll
+C:\demos\bootstrap-less-demo\bootstrap-less-demo\obj\Debug\bootstrap-less-demo.dll
+C:\demos\bootstrap-less-demo\bootstrap-less-demo\obj\Debug\bootstrap-less-demo.pdb
