@@ -33,7 +33,7 @@ Including the follow in your `web.config`:
 
 ### Node.js
 
-#### Precomile with `lessc`
+#### Precompile with `lessc`
 - Install [node.js] (http://nodejs.org/)
 - Run Powershell as Administrator
 - Install the LESS compiler via npm
